@@ -1,0 +1,19 @@
+h1, h3 {
+    margin: 0 0 20px 0;
+    text-align: center;
+    font-weight: 900;
+}
+
+h1 .text-muted {
+    display: block;
+    line-height: 1.2;
+}
+
+h1 .text-muted a {
+    color: #bbb;
+    font-weight: 600;
+}
+
+.btn-group {
+    margin-bottom: 15px;
+}
