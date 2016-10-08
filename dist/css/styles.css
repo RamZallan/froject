@@ -1,7 +1,12 @@
-h1, h3 {
+h1 {
     margin: 0 0 20px 0;
     text-align: center;
     font-weight: 900;
+}
+
+h1 img {
+    height: 40px;
+    margin-left: 20px;
 }
 
 h1 .text-muted {
@@ -11,9 +16,14 @@ h1 .text-muted {
 
 h1 .text-muted a {
     color: #bbb;
-    font-weight: 600;
+    font-weight: 900;
 }
 
+h3 {
+    margin-bottom: 20px;
+    font-weight: 400;
+    text-align: center;
+}
 .btn-group {
     margin-bottom: 15px;
 }
