@@ -27,13 +27,11 @@ h3 {
 
 .jumbotron a.btn:not(.btn-block) {
     display: block;
+    width: 100%;
     margin: 10px 0;
 }
 
 @media (max-width: 1000px) {
-    .jumbotron a.btn {
-        display: block;
-    }
     h1 img {
         height: 30px;
     }
