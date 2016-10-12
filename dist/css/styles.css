@@ -24,14 +24,15 @@ h3 {
     font-weight: 400;
     text-align: center;
 }
-.btn-group {
-    margin-bottom: 15px;
+
+.jumbotron a.btn:not(.btn-block) {
+    display: block;
+    margin: 10px 0;
 }
 
 @media (max-width: 1000px) {
     .jumbotron a.btn {
         display: block;
-        width: 100%;
     }
     h1 img {
         height: 30px;
